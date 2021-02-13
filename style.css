@@ -1,0 +1,13 @@
+button{
+    background-color: aqua;
+    padding: 20px 50px;
+    position: relative;
+    left: 45%;
+}
+
+#loading{
+    position: relative;
+    background-color:burlywood;
+    text-align: center;
+    display: none;
+}
